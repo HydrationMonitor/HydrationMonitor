@@ -5,9 +5,14 @@ Without advanced hydrolysis tools, there is only one reliable method to measurin
 
 Development Team | Roles 
 
+
 Elijah | Hydration Master
+
 Alex | Water Boy 
+
 Nicole | Urinary Specialist 
+
 Jordan | Medical Doctor 
+
 Meelad | Mascot  
 
