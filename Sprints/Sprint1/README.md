@@ -1,1 +1,1 @@
-Here is a good place to track our sprint backlogs and other sprint/scrum related info
+Figure this is a good spot for sprint/scrum related info
