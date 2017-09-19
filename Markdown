@@ -1,0 +1,8 @@
+Problem. This should be a refinement to the problem statement you wrote for Deliverable #1. 
+A good problem description is a logical, substantiated argument that proves the existence of a problem. 
+Your problem description should cite evidence from your user research as well as any scholarly literature you can find about the problem.
+This doesn't need to be long; a few paragraphs is usually enough to clearly define the problem you're solving.
+
+Solution.  What’s your solution to the problem? What are you going to build?
+
+Process. How will you apply agile methods to build it? 
