@@ -1,4 +1,5 @@
-Problem. This should be a refinement to the problem statement you wrote for Deliverable #1. 
+#### Problem
+This should be a refinement to the problem statement you wrote for Deliverable #1. 
 A good problem description is a logical, substantiated argument that proves the existence of a problem. 
 Your problem description should cite evidence from your user research as well as any scholarly literature you can find about the problem.
 This doesn't need to be long; a few paragraphs is usually enough to clearly define the problem you're solving.
@@ -11,7 +12,8 @@ This doesn't need to be long; a few paragraphs is usually enough to clearly defi
   much liquid to intake to stay healthy. However, there is one way to recommend how much water to drink: just enough to pee a regular number
   of times per day, every day. Hydration Monitor.
 
-Solution.  What’s your solution to the problem? What are you going to build?
+#### Solution
+What’s your solution to the problem? What are you going to build?
 
   We will design and build an application for use on any iOS system. The app will be simple to use. It will first ask the user to input his
   gender, height, weight, and age. Then, all the user has to do is remember to go on the app every time he uses the bathroom and simply
@@ -24,7 +26,8 @@ Solution.  What’s your solution to the problem? What are you going to build?
   goal. For example, if you are supposed to pee seven times, and you have only gone twice by 3pm, the app will notify you to drink more 
   water.
 
-Process. How will you apply agile methods to build it? 
+#### Process
+How will you apply agile methods to build it? 
 
   We will have scrums multiple times per week, and discuss what kind of progress we have made since our last scrum meeting.
   There is a scrum folder in our repo for us to track our backlog, as well as any other info pertaining to our scrum meetings.
