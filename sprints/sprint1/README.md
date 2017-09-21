@@ -1,6 +1,3 @@
-It's time to solve the problem you identified in Deliverable #1. Your task for this homework assignment is to design a solution and describe to me how you will apply agile methods to build it. 
-This deliverable will be a document with three sections:
-
 Problem. Without advanced hydrolysis tools, there is only one reliable method to measuring/monitoring personal hydration levels: the number of times you pee per day. The app market currently lacks a simple and efficient way to monitor personal hydration, and this application serves as a simple yet powerful solution to a very important issue. Personal hydration is the single most important factor in maintaining a healthy lifestyle. Some sources will recommend how much water to drink per day, but this is relatively inaccurate, as people’s bodies are extremely different, and factors such as temperature and daily activity render it nearly impossible to precisely advise how much liquid to intake to stay healthy. However, there is one way to recommend how much water to drink: just enough to pee a regular number of times per day, every day. Hydration Monitor.
 
 Solution.  What’s your solution to the problem? What are you going to build?
