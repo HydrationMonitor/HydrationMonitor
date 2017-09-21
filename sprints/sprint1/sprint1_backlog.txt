@@ -1,0 +1,7 @@
+We discussed implementing our app first as an iOS app running off of Firebase.
+Our goal is to get a Hello World going within the week. 
+
+While the engineering is working on that, other team members will work on
+finalizing the design and requirements for HydrationMonitor. Within the week,
+we should have a very solid idea as to what our app's structure will be (in
+terms of screens, what info we need, etc.)
