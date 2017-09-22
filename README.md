@@ -6,7 +6,7 @@ Without advanced hydrolysis tools, there is only one reliable method to measurin
 ### Development Team | Roles (still being decided)
 
 
-Elijah | Hydration Master
+Elijah | Hydration
 
 Alex | Design Specialist 
 
