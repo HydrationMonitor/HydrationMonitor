@@ -3,34 +3,29 @@
 Without advanced hydrolysis tools, there is only one reliable method to measuring/monitoring personal hydration levels: the number of times you pee per day. The app market currently lacks a simple and efficient way to monitor personal hydration, and this application serves as a simple yet powerful solution to a very important issue. Personal hydration is the single most important factor in maintaining a healthy lifestyle. Some sources will recommend how much water to drink per day, but this is relatively inaccurate, as people’s bodies are extremely different, and factors such as temperature and daily activity  render it nearly impossible to precisely advise how much liquid to intake to stay healthy. However, there is one way to recommend how much water to drink: just enough to pee a regular number of times per day, every day. Hydration Monitor. 
 
 
-### Development Team | Roles (still being decided)
+### Developers | Roles
 
+
+Alex | Design
 
 Elijah | Hydration
 
-Alex | Design Specialist 
+Jordan | User Interface 
 
-Nicole | Engineering Specialist 
+Meelad | Customer Interaction
 
-Jordan | User Interface Engineer 
-
-Meelad | Customer Interaction Lead 
+Nicole | Engineering 
 
 
 
 #### Problem 
-This should be a refinement to the problem statement you wrote for Deliverable #1. 
-A good problem description is a logical, substantiated argument that proves the existence of a problem. 
-Your problem description should cite evidence from your user research as well as any scholarly literature you can find about the problem.
-This doesn't need to be long; a few paragraphs is usually enough to clearly define the problem you're solving.
-
   Without advanced hydrolysis tools, there is only one reliable method to measuring/monitoring personal hydration levels: the number of
   times you pee per day. According to the United States Surgeon General, the average American adult will pee an average of six to eight times per day.
   The app market currently lacks a simple and efficient way to monitor personal hydration, and this application
   will serve as a simple yet powerful solution to a very important issue. Personal hydration is the single most important factor in maintaining
   a healthy lifestyle. It’s normal to lose water from your body every day by sweating, breathing, peeing, and pooping, and through tears and saliva (spit). 
   Usually you replace the lost liquid by drinking fluids and eating foods that contain water. If you lose too much water or don’t drink and eat enough, you can get dehydrated.
- 
+  
  You can lose more water than usual with:
   * A fever
   * Diarrhea 
@@ -41,7 +36,7 @@ This doesn't need to be long; a few paragraphs is usually enough to clearly defi
   You may not replace the water you lose because:
   You’re busy and forget to drink enough.
   You don’t realize you’re thirsty.
-  You don’t feel like drinking because you have a sore throat or mouth sores, or you’re sick to your stomach.
+A  You don’t feel like drinking because you have a sore throat or mouth sores, or you’re sick to your stomach.
   
   Signs of mild or moderate dehydration include:
   * Thirst
