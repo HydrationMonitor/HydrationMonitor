@@ -3,11 +3,11 @@ physiologist Sharon E. Griffin estimates that:
 nearly 75% of Americans
 in medical terms, are chronically dehyrdated 
 
-you need a half ounce of fluid per day for every pound of body weight. 
-for example, if you weigh 160 lbs., you need 80 oz. 
+you need a half ounce of fluid per day for every pound of body weight
+for example, if you weigh 160 lb, you need 80 oz
 divide that by eight to calculate the number of cups you need 
 which in this case is 10
-she also notes that you need .034 oz. of water for every calorie you ingest
+she also notes that you need .034 oz of water for every calorie you ingest
 so if you ingest 3000 calroies
 you need 102 oz, or 13 cups of water daily
 and if you ingest 1500 calories a day 
@@ -29,7 +29,7 @@ let q = the number of times a person should pee daily
 x (weight) will be run through a forumla that outputs the base number of cups per day  
 y (sweat) will be measured by a scale that converts to a numeric score 
 z (calories) will be a number that is converted into a daily cup increment or decrement
-q (pee) a final number, normally ranging from 7-15 times daily is output 
+q (pee) a final number, normally ranging from 5-13 times daily will be output 
 
 sweat level is decided as follows:
 extremely low -> 0
