@@ -1,0 +1,71 @@
+Physiologist Sharon E. Griffin estimates that:
+
+nearly 75% of Americans
+in medical terms, are chronically dehyrdated 
+
+you need a half ounce of fluid per day for every pound of body weight. 
+for example, if you weigh 160 lbs., you need 80 oz. 
+divide that by eight to calculate the number of cups you need 
+which in this case is 10
+she also notes that you need .034 oz. of water for every calorie you ingest
+so if you ingest 3000 calroies
+you need 102 oz, or 13 cups of water daily
+and if you ingest 1500 calories a day 
+you need 51 oz (equiv to 7 cups daily)
+take the body weight versus the calorie estimate and choose the larger
+this is your recommended daily water intake base
+means that most people in the U.S are functioning in a chronic state of dehydration
+water intake should moderately increase after a large meal
+and increase more after strenuous exercise 
+or extended periods in the sun
+note that females should not inherenetly drink any less water than males
+a 135 lb female should generally drink the same amount of water as a 135 lb male 
+
+let x = the weight of a person
+let y = the sweat level of the person
+let z = the calories eaten daily by a person
+let q = the number of times a person should pee daily 
+
+x (weight) will be run through a forumla that outputs the base number of cups per day  
+y (sweat) will be measured by a scale that converts to a numeric score 
+z (calories) will be a number that is converted into a daily cup increment or decrement
+q (pee) a final number, normally ranging from 7-15 times daily is output 
+
+sweat level is decided as follows:
+extremely low -> 0
+low -> + 1
+medium -> +4 
+high -> +7
+very high -> +9
+sweat master -> 10+ (unlimited) 
+
+the equation is: (x OR z) + y = q/2
+
+x is (.5 * weight)/8 
+z is (.034 * calories)
+y is (sweat 0 - 10+)
+q is (x OR z plus y) over 2
+
+example:
+130 pound person
+eats 2300 calories daily
+sweat level is medium
+should drink (8.75 OR 9.775) + 4 cups of water daily
+round up to 14 cups of water daily 
+and should pee 14/2 times daily
+7 pees per day
+
+we need users to input weight, calories, and activity level
+users can also customize their personal reccomendation 
+users get a badge for hitting 13 daily pees 
+all users are notified of possible medical concerns when they reach 14 daily pees 
+
+
+
+
+
+
+
+
+
+
